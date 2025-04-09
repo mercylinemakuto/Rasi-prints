@@ -430,3 +430,446 @@ list-style-type: none;
 .fa-phone-volume fa-2xl{
     color: #edeff3;
 }
+@media screen and (min-width: 320px) and (max-width: 857px){
+    .container{
+        background-image: url(Images/printers-for-transfer-media-cushion-500.jpg);
+        background-size: cover;
+        background-position: center;
+        color: white;
+        position: relative;
+        height: 17cm;
+        
+        }
+        .container::after{
+            content: "";
+            position: absolute;
+            top: 0;
+            right: 0;
+            left: 0;
+            bottom: 0;
+            z-index: 1;
+           
+        }
+        .rasi-printers.rasi-printers{
+            background-color: rgb(136, 182, 90);
+            width: 100%;
+            height: 1cm;
+            color: white;
+            text-align: center;
+            font-size: 20px;
+           
+        }
+        #contact-us{
+            width: 5cm;
+            height: 1.5cm;
+            background-color: gray;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            margin-left: 3cm;
+            font-size: 15px;
+            
+        }
+        h1{
+            font-size: 29px;
+            text-align: center;
+            position: relative;
+            z-index: 2;
+            padding-top: 1cm;
+            
+        }
+        .navigation{
+        margin-left: 2cm;
+        padding-top: 1cm;
+        z-index: 2;
+        position: relative;
+        }
+        #rasi{
+            text-decoration: none;
+           color: white;
+           font-size: 15px;
+        }
+        #home{
+            margin-left: 1cm;
+            text-decoration: none;
+            color: white;
+            font-size: 14px;
+        }
+        #about{ 
+            margin-left: 0.5cm;
+            text-decoration: none;
+            color: white;
+            font-size: 14px;
+        }
+        #product{
+            margin-left: 0.5cm;
+            text-decoration: none;  
+            color: white;
+            font-size: 14px;
+        }
+        #gallery{
+            margin-left: 0.5cm;
+            text-decoration: none; 
+            color: white; 
+            font-size: 14px;  
+        }
+        #contact{
+            margin-left: 0.5cm;
+            text-decoration: none; 
+            color: white; 
+            z-index: 2;
+            position: relative; 
+            font-size: 14px; 
+           
+        }
+        .fa-phone-volume{
+            color: white;
+            margin-left: 6cm;
+            width: 0.5cm;
+            height: 0.5cm;
+            
+        }
+        #tradition{
+            text-align: center;
+            z-index: 2;
+            position: relative;
+            font-size: 20px;
+        }
+        #screen-printing{
+            text-align: center;
+            font-size: 20px;
+            border-top: solid 1px;
+            border-bottom: solid 1px;
+            margin-top: 0.2cm;
+            padding: 0.7cm;
+        
+        
+        }
+        #bed{
+            width: 10cm;
+            height: 10cm;
+        }
+        #rasiscreen{
+            text-decoration: none;
+            color: rgb(73, 128, 73);
+            font-size: 20px;
+        }
+        #timeless{
+            font-size: 35px;  
+        }
+        .bed-screen{
+            display: flex;
+            gap: 4cm;
+            display: block;
+        }
+        #know{
+            width: 4.5cm;
+            height: 1.5cm;
+            background-color: rgb(79, 148, 79);
+            border: none;
+            border-radius: 18px;
+            font-size: 20px;
+            color: white;
+        }
+        #contact-infor{
+            width: 4.5cm;
+            height: 1.5cm;  
+            border-radius: 18px;
+            font-size: 20px;
+        }
+        .trophy-right{
+            display: flex;
+        }
+        .warranty{
+            display: flex;
+        }
+        .shipping{
+            display: flex;
+        }
+        .sustainable{
+            display: flex;
+        }
+        #trophy{
+            width: 1.8cm;
+            height: 1.8cm;
+        }
+        #exellence{
+            width: 1.8cm;
+            height: 1.8cm;  
+        }
+        #assurance{
+            width: 1.8cm;
+            height: 1.8cm;    
+        }
+        #practices{
+            width: 1.8cm;
+            height: 1.8cm;      
+        }
+        .icons{
+            display: flex;
+            gap: 4cm;
+            padding-left: 3cm;
+            margin-top: 0.8cm;
+            background-color: rgb(180, 191, 211);
+            width: 70%;
+            height: 7.5cm;
+            padding-top: 1cm;
+            display: block;
+        }
+        .world{
+            text-align: center;
+        
+        }
+        #printing-technique{
+            font-size: 20px;
+        }
+        #textile{
+            font-size: 20px;
+            font-weight: lighter;
+        }
+        #incotex{
+        border-radius: 20px;
+        width: 10cm;
+        height: 10cm;
+        }
+        #uv-printing{
+            width: 10cm;
+            height: 10cm ;
+            border-radius: 20px;
+        }
+        .textiles-printing{
+            display: flex;
+            gap: 2cm;
+            display: block;
+        }
+        #dive{
+            font-size: 15px;
+            color: rgb(75, 74, 74);
+        }
+        #arrow{
+            margin-left: 5.5cm;
+            width: 0.3cm;
+            height: 0.3cm;
+            border-radius: 50px;
+            background-color: rgb(206, 217, 233);
+            padding: 0.6cm;
+            margin-top: 0.2cm;
+        
+        }
+        .client-praise{
+            text-align: center;
+        }
+        #aditya{
+            width: 3cm;
+            height: 2cm;
+        }
+        .garment-industry{
+            display: flex;
+            gap: 0.5cm;
+        }
+        #arvind{
+            width: 2cm;
+            height: 2cm; 
+        }
+        .arvind-ltd{
+            display: flex;
+            gap: 0.5cm;
+        }
+        #raymond{
+            width: 2.5cm;
+            height: 2.8cm;  
+        }
+        .raymond-industry{
+            display: flex;
+            gap: 0.5cm;
+        }
+        .industries{
+        display: flex;
+        gap: 7cm;
+        margin-top: 2cm;
+        display: block;
+        }
+        .garment-industry{
+            width: 7.5cm;
+            height: 2cm;
+            background-color: rgb(224, 226, 228);
+            padding: 1cm;
+            border-radius: 13px;
+        }
+        .arvind-ltd{
+            width: 7.5cm;
+            height: 2cm;
+            background-color: rgb(224, 226, 228);
+            padding: 1cm; 
+            border-radius: 13px;  
+        }
+        .raymond-industry{
+            width: 7.5cm;
+            height: 2cm;
+            background-color: rgb(224, 226, 228);
+            padding: 1cm; 
+            border-radius: 13px;   
+        }
+        .fa-star{
+            color: #4a834a;
+        }
+        #couch{
+            width: 10cm;
+            height: 10cm;
+            border-radius: 12px;
+        }
+        .quality-printing{
+            display: flex;
+            margin-top: 3cm;
+            gap: 4cm;
+            display: block;
+        }
+        #arvind-store{
+            width: 3cm;
+            height: 2.8cm;
+            margin-left: 2.8cm;
+        }
+        #gap{
+            width: 3cm;
+            height: 2.8cm; 
+            margin-left: 2.8cm; 
+        }
+        #myntra{
+            width: 4cm;
+            height: 2cm; 
+            margin-left: 2.8cm;    
+        }
+        #puma{
+            width: 4cm;
+            height: 2cm;
+            margin-left: 2.8cm;    
+        }
+        #adit{
+            width: 4cm;
+            height: 2.2cm; 
+            margin-left: 2.8cm;     
+        }
+        #converse{
+            width: 4cm;
+            height: 2cm; 
+            margin-left: 2.8cm;   
+        }
+        #markalar{
+            width: 3cm;
+            height: 1.7cm;
+            border: solid 1px;
+            margin-left: 1.8cm;
+        }
+        .logos{
+            margin-top: 2cm;
+        }
+        .indian-clothes{
+            display: flex;
+            gap: 2cm;
+            margin-top: 3cm;
+            display: block;
+        }
+        #clothes{
+            width: 10cm;
+            height: 10cm;
+            border-radius: 12px;
+        }
+        #bedspread{
+            width: 10cm;
+            height: 10cm;
+            border-radius: 12px;  
+        }
+        #lady-clothes{
+            width: 10cm;
+            height: 10cm;
+            border-radius: 12px;    
+        }
+        .showcasing{
+            text-align: center;
+            margin-top: 3cm;
+        }
+        #pexels{
+           width: 100%;
+            height: 12cm;
+            border-radius: 10px;
+        }
+        .image-pexels{
+            margin-top: 3cm;
+        }
+        .reach-out{
+            text-align: center;
+        }
+        #questions{
+            font-size: 15px;
+            color: rgb(75, 74, 74);
+        }
+        #map{
+            width: 100%;
+            height: 14cm;
+            border-radius: 18px;
+        }
+        #phonenumber{
+            font-size: 20px;
+            font-weight: bolder;
+        }
+        #address{
+            font-size: 20px; 
+            font-weight: bolder; 
+        }
+        #opening-hours{
+            font-size: 20px;  
+            font-weight: bolder;
+        }
+        #rasi-screen{
+            width: 4cm;
+            height: 4cm;
+            padding: 1cm;
+        }
+        .rasi-footer{
+            display: flex;
+            gap: 3cm;
+            display: block;
+        }
+        #sitemap{
+            font-size: 16px;
+            font-weight: bolder;
+        }
+        #accounts{
+            font-size: 16px; 
+            font-weight: bolder; 
+        }
+        .dharapuram-road{
+            display: flex;
+            gap: 2cm;
+        
+        }
+        .footer-rasiprints ul{
+        list-style-type: none;
+        }
+        .footer-rasiprints{
+            background-color: rgb(16, 16, 26);
+            color: rgb(170, 165, 165);
+            
+        }
+        .map-contacts{
+            position: absolute;
+            background-color: antiquewhite;
+            width: 6cm;
+            height: 7cm;
+            top: 8400px;
+            margin-left: 1cm;
+            padding: 1cm;
+            border-radius: 20px;
+        
+        }
+        .fa-phone{
+            color: #dfe1e6;
+        }
+        #copyright{
+            text-align: center;
+            padding: 1cm;
+        }
+        .fa-phone-volume fa-2xl{
+            color: #edeff3;
+        } 
+}
